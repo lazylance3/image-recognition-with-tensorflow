@@ -13,6 +13,8 @@ tensorflow = "*"
 "h5py" = "*"
 scipy = "*"
 matplotlib = "*"
+opencv-python = "*"
+tqdm = "*"
 
 
 [dev-packages]
