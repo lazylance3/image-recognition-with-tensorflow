@@ -1,0 +1,18 @@
+[[source]]
+
+verify_ssl = true
+name = "pypi"
+url = "https://pypi.python.org/simple"
+
+
+[packages]
+
+numpy = "*"
+tflearn = "*"
+tensorflow = "*"
+"h5py" = "*"
+scipy = "*"
+
+
+[dev-packages]
+
