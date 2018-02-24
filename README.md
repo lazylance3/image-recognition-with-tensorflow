@@ -9,7 +9,7 @@ Here are the steps:
 2. You first need to preprocess your data. Ensure you've downloaded the images from https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data , Now:
    1. Run `python process_train_data.py` to create the `train_data.npy` file
    2. Then run `python process_test_data.py` to create the `test_data.npy` file
-4. Finally, you are ready to create and train your model. Ensure you've uncommented the `create_model` and `train_model` function calls. Do this using `python create_n_train.py`. If you have a slow PC (like I do), this may take a while. 
+4. Finally, you are ready to create and train your model. Ensure you've uncommented the `create_model` and `train_model` function calls in `create_n_train.py` and then run `python create_n_train.py`. If you have a slow PC (like I do), this may take a while. 
 5. Now you are ready to start the classification. Run `python make_classification.py`
 
 Of course, if you are not an absolute beginner and have some understanding of tensorflow, you can use the `model.meta` file I've provided. 
