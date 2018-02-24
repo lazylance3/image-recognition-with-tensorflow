@@ -12,6 +12,7 @@ tflearn = "*"
 tensorflow = "*"
 "h5py" = "*"
 scipy = "*"
+matplotlib = "*"
 
 
 [dev-packages]

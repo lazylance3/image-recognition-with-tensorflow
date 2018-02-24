@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lance/Documents/self_study/image-recognition-with-tensorflow/dogsvscats-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/home/lance/Documents/self_study/image-recognition-with-tensorflow/dogsvscats-0.001-2conv-basic.model"
